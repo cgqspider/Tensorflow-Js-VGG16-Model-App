@@ -1,0 +1,7 @@
+{
+  "name": "VGG 16 DEPLOYMENT OF APP",
+  "description": "Tensorflow js vgg16 deployment",
+  "repository": "https://github.com/cgqspider/Tensorflow-Js-VGG16-Model-App.git",
+  "logo": "https://colorlib.com/wp/wp-content/uploads/sites/2/nodejs-frameworks.png",
+  "keywords": ["node", "express", "static","machine learning","tensorflow js"]
+}
